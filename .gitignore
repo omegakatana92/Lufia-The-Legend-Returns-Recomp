@@ -1,4 +1,1 @@
-*.gb 
-*.gbc 
-*.build/
-*runtime/
+*.gb*.gbc*.GB*.GBC*_metadata.js build/
