@@ -1,2 +1,4 @@
 *.gb 
 *.gbc 
+*.build/
+*runtime/
