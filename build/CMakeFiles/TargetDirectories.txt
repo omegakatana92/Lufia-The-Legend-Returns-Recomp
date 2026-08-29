@@ -1,0 +1,4 @@
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/lufia/build/CMakeFiles/gbrt.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/lufia/build/CMakeFiles/Lufia___The_Legend_Returns__USA_.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/lufia/build/CMakeFiles/edit_cache.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/lufia/build/CMakeFiles/rebuild_cache.dir
